@@ -24,7 +24,9 @@ Label	Target label: 0 = non-spam, 1 = spam
 clone the repo:https://github.com/sahilarora-1/spam_filtering_model.git
 
 git clone https://github.com/sahilarora-1/spam_filtering_model.git
-cd spam_filtering_m
+
+go to the folder
+cd spam_filtering_model
 
 Install dependencies:
 
